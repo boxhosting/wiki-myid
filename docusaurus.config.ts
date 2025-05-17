@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'MyID.su',
   tagline: 'Документация по MyID.su',
-  favicon: 'https://box-hosting.ru/icon.png',
+  favicon: 'https://web.box-hosting.ru/icon.png',
 
   // Set the production url of your site here
   url: 'https://wiki.myid.su',
@@ -53,12 +53,12 @@ const config: Config = {
   themeConfig: {
 	
     // Replace with your project's social card
-    image: 'https://box-hosting.ru/icon.png',
+    image: 'https://web.box-hosting.ru/icon.png',
     navbar: {
       title: 'Wiki MyID.su',
       logo: {
         alt: 'MyID.su',
-        src: 'https://box-hosting.ru/icon.png',
+        src: 'https://web.box-hosting.ru/icon.png',
       },
       items: [
         {
