@@ -15,17 +15,22 @@
 * Target: адрес вашей ноды, например `rubox3.box-hosting.ru`
 * Proxy: оставьте включенным
 4. Перейдите во вкладку Rules -> Overview
+
 ![rulescf](./img/rulcf1.png)
+
 5. Нажмите `Create rule`
 6. Выбираете `Origin Rules`
+
 ![rulescf](./img/rulcf2.png)
 7. После чего у вас появится Create new Origin Rule где `Change Port` нажимаете на `Create a Rule`
+
 ![rulescf](./img/rulcf3.png)
 * Введите любое название
 * Поставьте `Field` на `Hostname`
 * Operator: `Equals`
 * Value: ваше доменное имя с поддоменов, например `site.myserver.com`
 * Выберите `Rewrite to` и укажите порт вашего вебсервера (сайта)
+
 ![rulescf](./img/rulcf4.png)
 
 ![rulescf](./img/rulcf5.png)
