@@ -19,4 +19,4 @@ Minecraft: 8
 2. Нажмите на кнопку CREATE ALLOCATION
 
 🎉 Готово! Порт создан. Вы можете управлять портами в этой вкладке:
-![allocations](https://i.imgur.com/sZZzcLw.png)
+![allocations](./img/network.png)
