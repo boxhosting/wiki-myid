@@ -22,6 +22,7 @@
 6. Выбираете `Origin Rules`
 
 ![rulescf](./img/rulcf2.png)
+
 7. После чего у вас появится Create new Origin Rule где `Change Port` нажимаете на `Create a Rule`
 
 ![rulescf](./img/rulcf3.png)
