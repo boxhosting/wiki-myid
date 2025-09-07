@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'BOXmineYT', // Usually your GitHub org/user name.
+  organizationName: 'boxhosting', // Usually your GitHub org/user name.
   projectName: 'wiki-myid', // Usually your repo name.
 
   onBrokenLinks: 'throw',
